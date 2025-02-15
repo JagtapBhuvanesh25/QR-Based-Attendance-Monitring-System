@@ -42,7 +42,6 @@ public class Login extends javax.swing.JFrame {
         jScrollPane1.setViewportView(jTextArea1);
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setMaximumSize(new java.awt.Dimension(635, 506));
         setMinimumSize(new java.awt.Dimension(635, 506));
         setUndecorated(true);
 
