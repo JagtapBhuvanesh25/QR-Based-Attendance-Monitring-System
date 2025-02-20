@@ -23,7 +23,7 @@ public class BDUtility {
             resizedImage.createGraphics().drawImage(originalImage.getScaledInstance(newWidth, newHeight, Image.SCALE_SMOOTH),0,0,null);
             ImageIcon backgroundImage = new ImageIcon(resizedImage);
             JLabel backgroundLabel1 = new JLabel(backgroundImage);
-            backgroundLa
+            background
         }
         catch(Exception ex){
             ex.printStackTrace();
